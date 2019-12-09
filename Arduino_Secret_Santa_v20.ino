@@ -1,6 +1,7 @@
 
 // Secret Santa Machine version 2.0 December 2019 by Sam Lanyon. Please reuse the code, provided you 
 // acknowledge the originators license requiresemtns for the display and printer code included.
+// Thank you to Jowan for the sorting algorithm.
 
 //************** Sorting algorithm ***********************
 // Put the list of people participating in Secret Santa in this string.
